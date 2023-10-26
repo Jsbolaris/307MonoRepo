@@ -1,3 +1,1 @@
-[submodule "react-frontend"]
-	path = react-frontend
-	url = https://github.com/Jsbolaris/csc307-react-app-monorepo
+monorepo
